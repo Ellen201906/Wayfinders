@@ -1,38 +1,29 @@
 ﻿.How {
     color: #044c64;
     background-color: white;
-    margin-left: 90px;
-   font-style:italic;
+    /*padding-right:500px;*/
 }
 
 .Howto {
     font-style: italic;
-    font-size:36px;
+    font-size:48px;
 }
 
 .Fee {
     font-style: italic;
-    font-size: 30px;
+    font-size: 48px;
 }
 
-
 .number { 
-    font-size: 26px;
+    font-size: 56px;
 }
 
 .member {   
-    font-size: 20px;
-
-}
-
-.Benefit {
-    font-style: italic;
     font-size: 30px;
-   
+    margin-top: -100px
 }
 .guidance {
-    font-size: 18px;
-
+    font-size: 22px;
 
 }
 
@@ -40,8 +31,7 @@
     color: white;
     background-color: green;
     border-radius: 30px;
-    font-size:24px;
-    text-align:center;
+    font-size:26px;
 }
 
 .apply:hover {color: black    }
@@ -49,13 +39,13 @@
 .faq {
     background-color: #044c64;
     color: white;
-    font-size: 36px;
-    padding-left: 90px;
+    font-size: 48px;
+    /*padding-right:500px;*/
 }
 
 .card1 {
     color: #044c64;
-    font-size: 28px;
+    font-size: 30px;
     background-color: white;
 }
 
@@ -64,25 +54,32 @@
     font-size: 26px;
     font-style: italic;
 }
+.span_minus:before {
+    content: "-";
+}
+
+.span_plus:before {
+    content: "+";
+}
 
 .want {
     color: #044c64;
     background-color: white;
     font-style: italic;
-    margin-left: 90px;
-    font-size: 36px;
+    /*margin-left:-250px;*/
+    font-size: 48px;
 }
 
-.donate {
+.donate{
     border-radius: 30px;
-    font-size: 26px;
-  
+    font-size:36px;
+   
 }
 
 .footer1 {
     background-color: black;
     color: white;
-    padding-left: 90px;
+    /*padding-right:500px;*/
 }
 
 
