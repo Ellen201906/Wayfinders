@@ -1,8 +1,8 @@
 ﻿.How {
     color: #044c64;
     background-color: white;
-    margin-left: 80px;
-    padding-left: 40px;
+    margin-left: 90px;
+  
 }
 
 .Howto {
@@ -41,7 +41,7 @@
     background-color: #044c64;
     color: white;
     font-size: 48px;
-    padding-left: 80px;
+    padding-left: 90px;
 }
 
 .card1 {
@@ -55,32 +55,25 @@
     font-size: 26px;
     font-style: italic;
 }
-.span_minus:before {
-    content: "-";
-}
-
-.span_plus:before {
-    content: "+";
-}
 
 .want {
     color: #044c64;
     background-color: white;
     font-style: italic;
-    margin-left: 80px;
+    margin-left: 90px;
     font-size: 48px;
 }
 
 .donate {
     border-radius: 30px;
     font-size: 36px;
-    margin-left: 80px;
+  
 }
 
 .footer1 {
     background-color: black;
     color: white;
-    padding-left: 80px;
+    padding-left: 90px;
 }
 
 
