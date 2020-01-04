@@ -232,50 +232,54 @@
 
     <!-- Body by Ye Liu-->
     <div class="How">
-        <div class="Howto">
-                <a name="join" class="font-weight-bold col-md-7 ">How to become a Member</a>
+
+        <div class="row Howto">
+                <a name="join" class="font-weight-bold col-md-7">How to become a Member</a>
                 <br />
           
         </div>
 
         <div class=" Fee">
             <div class="row">
-                <p class="col-md-7 ">Fee structure</p>&nbsp;&nbsp;
-                <p class="col-md-3 ">Benefits</p>
+                <p class="col-md-4 ">Fee structure</p>         
             </div>
-        </div>
+          
+            <div class="row">
+                <p class="col-md-1 font-weight-bold number">$100</p>
+				 <p class="col-md-1 font-weight-bold number"><i class="fa fa-plus" aria-hidden="true"></i></p>
+				  <p class="col-md-1 font-weight-bold number">$50</p>
+			</div>	
+				
+             <div class="row member">  
+				<p style="margin-left:10px">Member Share</p>
+                <p style="margin-left:200px">Annual Fee</p>               
+			</div>	     
+		</div>
+		   <br/>
+		
+             <div class="row Benefit">
+			 <p class="col-md-1">Benefits</p>
+			 </div>
+		
+			 <div class="row">
+			  <ul class="col-md-4 guidance">
+                    <li >Guidance and Business Matchmaking</li>
+                    <li >Training and Network Events</li>
+                    <li >Co-op discounts on select services</li>
+                    <li > Access to cloud-based business tools</li>
+                    <li >Voting share at Annual General Meeting</li>
+               </ul>
+            </div>
 
+			<br/>
+			<div class="row">
+                <a href="https://www.wayfindersbusinesscooperative.ca/test.commerce.v1/" class="col-sm-2 apply"><p>Apply to Join</p></a>
+            </div>
+	</div>
      
-            <div class="row">
-                <p class="col-md-2 font-weight-bold number">$100</p>
-                <p class="col-md-1 font-weight-bold number"><i class="fa fa-plus" aria-hidden="true"></i></p>
-                <p class="col-md-3 font-weight-bold number">$50</p>
-                <ul class="col-md-6 guidance">
-                    <li style="margin-left:150px">Guidance and Business Matchmaking</li>
-                    <li style="margin-left:150px">Training and Network Events</li>
-                    <li style="margin-left:150px">Co-op discounts on select services</li>
-                    <li style="margin-left:150px"> Access to cloud-based business tools</li>
-                    <li style="margin-left:150px">Voting share at Annual General Meeting</li>
-                </ul>
-            </div>
-     
-
-
-        <div class="member">
-            <div class="row">
-                <p class="col-md-3 ">Member Share</p>
-                <p class="col-md-2 ">Annual Fee</p>
-            </div>
-        </div>
-
-        <br />
-        <div class="">
-            <div class="row">
-                <a href="https://www.wayfindersbusinesscooperative.ca/test.commerce.v1/" class="col-lg-2 apply"><p>Apply to Join</p></a>
-
-            </div>
-        </div>
-    </div>
+    
+          
+    
     <br /> <br /> <br />
 
     <div class="faq">
@@ -341,8 +345,8 @@
         <br />
         <br />
         <div class="row">
-            <p class="want font-weight-bold col-md-6">Want to support the work we're doing?</p>
-            <button class="col-md-2  btn-success donate" type="submit">Donate</button>
+            <p class="want font-weight-bold col-md-5">Want to support the work we're doing?</p>
+            <button class="col-sm-1  btn-success donate" type="submit">Donate</button>
         </div>
     
 
