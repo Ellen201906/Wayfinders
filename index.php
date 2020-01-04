@@ -29,6 +29,9 @@
         <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3">
             <h5 class="my-0 mr-md-auto font-weight-bold h1">Wayfinders</h5>
             <nav class="my-2 my-md-0 mr-md-3">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+    <span class="navbar-toggler-icon"></span>
+  </button>
                 <a class="p-2 text-white font-weight-bold h5" href="#services">Services</a>
                 <a class="p-2 text-white font-weight-bold h5" href="#about">About</a>
                 <a class="p-2 text-white font-weight-bold h5" href="#community">Community</a>
