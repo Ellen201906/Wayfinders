@@ -341,7 +341,7 @@
         <br />
         <br />
         <div class="row">
-            <p class="want font-weight-bold col-md-10">Want to support the work we're doing?</p>
+            <p class="want font-weight-bold col-md-6">Want to support the work we're doing?</p>
             <button class="col-md-2  btn-success donate" type="submit">Donate</button>
         </div>
     
