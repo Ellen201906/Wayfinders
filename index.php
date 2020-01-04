@@ -30,9 +30,9 @@
             <h5 class="my-0 mr-md-auto font-weight-bold h1">Wayfinders</h5>
             <nav class="my-2 my-md-0 mr-md-3 navbar navbar-expand-sm navbar-dark">
 			  <a class="navbar-brand" href="#"></a>
-			 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
-    <span class="navbar-toggler-icon"></span>
-  </button>
+			 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar" style="padding-right:10px">
+               <span class="navbar-toggler-icon"></span>
+             </button>
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
   <ul class="navbar-nav">
       <li class="nav-item">
@@ -297,8 +297,8 @@
                 <div class="card card1">
                     <div class="card-header">
                         <a class="card-link card-link1" data-toggle="collapse" href="#collapseOne">
-                            Who are we?
-                        </a>
+                           What is a co-operative?
+                     </a>
                     </div>
                     <div id="collapseOne" class="collapse show" data-parent="#accordion">
                         <div class="card-body">
@@ -311,7 +311,7 @@
                 <div class="card card1">
                     <div class="card-header">
                         <a class="collapsed card-link card-link1" data-toggle="collapse" href="#collapseTwo">
-                            What can we do for you?
+                          How can Wayfinders help small business?  
                         </a>
                     </div>
                     <div id="collapseTwo" class="collapse" data-parent="#accordion">
@@ -325,7 +325,7 @@
                 <div class="card card1">
                     <div class="card-header">
                         <a class="collapsed card-link card-link1" data-toggle="collapse" href="#collapseThree">
-                            How to join us?
+                            What is a cloud and why should I care?
                         </a>
                     </div>
                     <div id="collapseThree" class="collapse" data-parent="#accordion">
@@ -346,7 +346,7 @@
         <br />
         <div class="row">
             <p class="want font-weight-bold col-md-5">Want to support the work we're doing?</p>
-            <button class="col-sm-1  btn-success donate" type="submit">Donate</button>
+            <button class="col-sm-1  btn-success donate"><a href="https://www.paypal.com/donate/?token=sIlWs_22Q4sIN-IgkdsrqFoYTfLeB1OPXFnVc2l8pelfQKlZyivZoUdx-WmdWYi5ECsrhW&country.x=CA&locale.x=CA" style="color:white">Donate<a></button>
         </div>
     
 
