@@ -1,0 +1,83 @@
+header {
+  background-image: url('../Photos/Edited-images/crossroads-edit.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #FFFFFF;
+  z-index: 0;
+  
+  /* background: linear-gradient(to right, rgba(39, 70, 133, 0.8) 0%,
+rgba(61, 179, 197, 0.8) 100%), url(../Photos/Edited-images/crossroads-edit.jpg); */
+position: relative;
+height: 100vh;
+min-height: 385px;
+}
+
+.bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+
+      .btn.btn-outline-primary{
+        background-color: #3EB01E !important;
+        border: none;
+        color: white;
+        border: none;
+        font-weight: bold;
+        text-align: center;
+        text-decoration: none;
+      }
+
+      .header-separator {
+        position: absolute;
+        width: 100%;
+        max-width: 100%;
+        bottom: -1px;
+        overflow: hidden;
+    }
+
+    .header-homepage + .header-separator svg {
+      height: 90px!important;
+  }
+  .header-separator .svg-white-bg {
+    fill: #FFFFFF;
+}
+
+.jumbotron.jumbotron {
+  background-color: #FFFFFF !important;
+}
+
+.jumbotron h2
+{
+  color: #0A425D;
+}
+
+.site-section{
+  background-color: #0A425D !important;
+}
+
+.here-to-help img{
+  height: 80px;
+  width: 80px;
+}
+
+.site-section
+{
+  height: 500px !important;
+  min-height: 500px;
+}
+
+.site-section .container{
+  padding-top: 120px;
+}
+

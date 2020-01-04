@@ -1,0 +1,29 @@
+.a
+{width:auto;
+ border:1px solid #093
+}
+
+.b {
+    width: auto;
+    height: 630px;
+    border: 1px solid #093;
+    background:url(Photos/Edited-images/road_nest-edited.jpg) no-repeat;
+    color:white;
+    font-family:Georgia;
+    font-size:13pt;
+    line-height:630px;
+    text-align:center;
+}
+
+.c
+{width:auto;margin:auto;}
+
+.c div {width:33.33%;
+        height:300px;
+        border:solid 1px gray;
+        float:left;
+        margin-left:0px;
+}
+
+.c div img {display:block;
+                width:100%;}

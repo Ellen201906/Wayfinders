@@ -1,0 +1,78 @@
+body {
+	background-color: white;	
+}
+
+h1{	
+	color: #044c64;
+	padding:40px;
+	font-size: 35px;
+	font-weight: bold;
+	font-family:sans-serif;
+	margin-left: 80px;
+}
+
+.logo-one {
+	margin-bottom: 50px;
+	margin-left: 108px;
+}
+
+.logo-two{
+	margin-bottom: 70px;
+	margin-left: 118px;
+}
+
+.logo-one span{
+	padding: 75px;	
+}
+
+.logo-two span{
+	padding: 75px;
+
+}
+
+.title{
+	height: 650px;
+	background-color: #044c64;
+}
+
+h2{
+	
+	color: white;
+	padding-top:50px;
+	font-size: 30px;	
+	font-family:sans-serif;
+	margin-left: 119px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template: 410px/ 400px 400px 400px;
+  grid-gap: 30px;
+  background-color:#044c64;
+  padding: 10px;
+  margin-left: 109px; 
+}
+
+.grid-container div {
+  background-color: white;
+  text-align:justify-all;
+  padding: 20px  ;
+  font-size: 17px; 
+}
+
+.grid-container p{
+	
+	font-size: 18px;
+	color:#044c64;
+	font-family:sans-serif;
+	text-align:justify-all;
+	padding: 21px;	
+}
+ 
+.banner {     
+height: 500px;
+background-image: url(../Photos/Edited-images/road_journey-edited.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+margin-bottom: 50px;
+}

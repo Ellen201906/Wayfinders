@@ -1,0 +1,31 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 297.3 297.3">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #4db4e5;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <title>WF_LandingPage_Dec10-19</title>
+  <circle class="cls-1" cx="148.65" cy="148.65" r="148.65"/>
+  <line class="cls-2" x1="119.09" y1="215.77" x2="167.07" y2="81.84"/>
+  <line class="cls-2" x1="80.82" y1="92.53" x2="202.18" y2="194.91"/>
+  <line class="cls-2" x1="74.46" y1="174.28" x2="222.91" y2="117.95"/>
+  <circle class="cls-3" cx="68.84" cy="85.34" r="23.95"/>
+  <circle class="cls-3" cx="58.07" cy="175.14" r="23.95"/>
+  <circle class="cls-3" cx="118.05" cy="230.11" r="21.67"/>
+  <circle class="cls-3" cx="170.73" cy="67.5" r="21.67"/>
+  <circle class="cls-3" cx="242.46" cy="110.49" r="23.95"/>
+  <circle class="cls-3" cx="141.88" cy="148.8" r="23.95"/>
+  <circle class="cls-3" cx="218.52" cy="206.28" r="23.95"/>
+</svg>

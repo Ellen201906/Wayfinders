@@ -1,0 +1,21 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 297.3 297.3">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #46ad21;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>WF_LandingPage_Dec10-19</title>
+  <circle class="cls-1" cx="148.65" cy="148.65" r="148.65"/>
+  <g>
+    <polygon class="cls-2" points="151.06 170.2 195.63 158.57 214.41 230.57 185.42 210.67 169.84 242.2 151.06 170.2"/>
+    <polygon class="cls-2" points="145.91 170.2 101.34 158.57 82.56 230.57 111.55 210.67 127.13 242.2 145.91 170.2"/>
+    <path class="cls-2" d="M145.88,55.56A62.11,62.11,0,1,0,208,117.66,62.1,62.1,0,0,0,145.88,55.56Zm.27,111.89a49.52,49.52,0,1,1,49.52-49.52A49.52,49.52,0,0,1,146.15,167.45Z"/>
+    <circle class="cls-2" cx="146.88" cy="117.73" r="36.42"/>
+  </g>
+</svg>
