@@ -1,7 +1,8 @@
 ﻿.How {
     color: #044c64;
     background-color: white;
-    /*padding-right:500px;*/
+    margin-left: 80px;
+    padding-left: 40px;
 }
 
 .Howto {
@@ -40,7 +41,7 @@
     background-color: #044c64;
     color: white;
     font-size: 48px;
-    /*padding-right:500px;*/
+    padding-left: 80px;
 }
 
 .card1 {
@@ -66,20 +67,20 @@
     color: #044c64;
     background-color: white;
     font-style: italic;
-    /*margin-left:-250px;*/
+    margin-left: 80px;
     font-size: 48px;
 }
 
-.donate{
+.donate {
     border-radius: 30px;
-    font-size:36px;
-   
+    font-size: 36px;
+    margin-left: 80px;
 }
 
 .footer1 {
     background-color: black;
     color: white;
-    /*padding-right:500px;*/
+    padding-left: 80px;
 }
 
 
