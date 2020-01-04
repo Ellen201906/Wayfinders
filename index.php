@@ -30,7 +30,7 @@
             <h5 class="my-0 mr-md-auto font-weight-bold h1">Wayfinders</h5>
             <nav class="my-2 my-md-0 mr-md-3 navbar navbar-expand-sm navbar-dark">
 			  <a class="navbar-brand" href="#"></a>
-			 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar" style="padding-right:10px">
+			 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
                <span class="navbar-toggler-icon"></span>
              </button>
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
@@ -66,8 +66,8 @@
     </header>
 
     <!-- Section Categories-->
-    <section class="jumbotron text-center">
-        <div class="container">
+    <section class="jumbotron">
+       
             <h2>
                 At a crossroads? Have an idea on a napkin?
                 Just starting up?
@@ -76,12 +76,12 @@
                 We’ve been there. We know how challenging it can be to
                 start a business, run a business and grow your business.
             </p>
-        </div>
+      
     </section>
 
     <!-- Site Section -->
     <div class="site-section">
-        <div class="container">
+     
 
             <div class="row justify-content-left mb-5">
                 <div class="col-md-5 aos-init aos-animate" data-aos="fade-up">
@@ -96,7 +96,7 @@
                             <span class="icon la la-users"></span>
                         </div>
                         <img src="Icons/icon_guidance.png" alt="Guidance">
-                        <h3 class="mb-3">Guidance</h3>
+                        <h3 class="mb-3 text-white" style="padding:40px">Guidance</h3>
                     </div>
                 </div>
 
@@ -106,7 +106,7 @@
                             <span class="icon la la-toggle-off"></span>
                         </div>
                         <img src="Icons/icon_community.png" alt="Community">
-                        <h3 class="mb-3">Community</h3>
+                        <h3 class="mb-3 text-white" style="padding:40px">Community</h3>
                     </div>
                 </div>
                 <div class="col-md-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
@@ -115,7 +115,7 @@
                             <span class="icon la la-umbrella"></span>
                         </div>
                         <img src="Icons/icon_events.png" alt="Events">
-                        <h3 class="mb-3">Events</h3>
+                        <h3 class="mb-3 text-white" style="padding:40px">Events</h3>
                     </div>
                 </div>
                 <div class="col-md-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
@@ -124,22 +124,22 @@
                             <span class="icon la la-umbrella"></span>
                         </div>
                         <img src="Icons/icon_training.png" alt="Training">
-                        <h3 class="mb-3">Training</h3>
+                        <h3 class="mb-3 text-white" style="padding:40px">Training</h3>
                     </div>
                 </div>
-                <div class="col-md-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+                <div class="col-md-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
                     <div class="feature-1 text-center">
                         <div class="wrap-icon icon-1">
                             <span class="icon la la-umbrella"></span>
                         </div>
                         <img src="Icons/icon_cloud.png" alt="Cloud Tools">
-                        <h3 class="mb-3">Cloud Tools</h3>
+                        <h3 class="mb-3 text-white" style="padding:40px">Cloud Tools</h3>
                     </div>
                 </div>
             </div>
 
         </div>
-    </div>
+  
     <!-- Body by Shun Li-->
     <div style="position: relative; width: 100%; height: 100%;">
         <img src="Photos\Edited-images\road_nest-edited.jpg" alt="" width="100%" />
@@ -178,7 +178,7 @@
             <span><img src="Logos/TCNG-logo.png" alt="TCNG-logo" title="TCNG-logo" width="195" height="90"></span></br>
         </div>
         <div class="logo-two">
-            <span><img src="Logos/shift.jpg" alt="shift-m_logo" title="shift-m_logo" width="130" height="190"/></span>
+            <span><img src="Logos/shift1.jpg" alt="shift-m_logo" title="shift-m_logo" width="145" height="55"/></span>
             <span><img src="Logos/EFCL-logo.jpg" alt="EFCL-logo" title="EFCL-logo" width="110" height="90"></span>
             <span><img src="Logos/Caliber-insurance-logo.png" alt="Caliber-insurance-logo" title="Caliber-insurance-logo" width="180" height="70"></span>
             <span><img src="Logos/flamingsoft-logo.jpg" alt="flamingsoft-logo" title="flamingsoft-logo" width="175" height="40"></span>
