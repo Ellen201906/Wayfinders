@@ -1,7 +1,7 @@
 ﻿.How {
     color: #044c64;
     background-color: white;
-    margin-left: 90px;
+    margin-left: 120px;
    font-style:italic;
 }
 
@@ -29,9 +29,11 @@
     font-style: italic;
     font-size: 30px;
    
+   
 }
 .guidance {
     font-size: 18px;
+ 
 
 
 }
@@ -50,7 +52,7 @@
     background-color: #044c64;
     color: white;
     font-size: 36px;
-    padding-left: 90px;
+    padding-left: 120px;
 }
 
 .card1 {
@@ -69,7 +71,7 @@
     color: #044c64;
     background-color: white;
     font-style: italic;
-    margin-left: 90px;
+    margin-left: 120px;
     font-size: 36px;
 }
 
@@ -82,7 +84,7 @@
 .footer1 {
     background-color: black;
     color: white;
-    padding-left: 90px;
+    padding-left: 120px;
 }
 
 
