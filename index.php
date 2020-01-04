@@ -66,7 +66,7 @@
     </header>
 
     <!-- Section Categories-->
-    <section class="jumbotron text-left">
+    <section class="jumbotron text-center">
         <div class="container">
             <h2>
                 At a crossroads? Have an idea on a napkin?
@@ -149,7 +149,7 @@
         </span>
     </div>
     <br><br>
-    <h2 style="color:#004359;position:absolute;text-align:left; padding-left:500px;"><b>On the ground and in the cloud</b></h2>
+    <h2 style="color:#004359;position:absolute;text-align:center; padding-left:500px;"><b>On the ground and in the cloud</b></h2>
     <br><br><br> <br><br><br><br>
     <div class="c">
         <div><img src="Photos\Edited-images\builders-edited.jpg" alt="" /></div>
@@ -232,22 +232,20 @@
 
     <!-- Body by Ye Liu-->
     <div class="How">
-        <div class="container Howto">
-
-            <div class="row">
+        <div class="Howto">
                 <a name="join" class="font-weight-bold col-md-7 ">How to become a Member</a>
                 <br />
-            </div>
+          
         </div>
 
-        <div class="container Fee">
+        <div class=" Fee">
             <div class="row">
                 <p class="col-md-7 ">Fee structure</p>&nbsp;&nbsp;
                 <p class="col-md-3 ">Benefits</p>
             </div>
         </div>
 
-        <div class="container">
+     
             <div class="row">
                 <p class="col-md-2 font-weight-bold number">$100</p>
                 <p class="col-md-1 font-weight-bold number"><i class="fa fa-plus" aria-hidden="true"></i></p>
@@ -260,10 +258,10 @@
                     <li style="margin-left:150px">Voting share at Annual General Meeting</li>
                 </ul>
             </div>
-        </div>
+     
 
 
-        <div class="container member">
+        <div class="member">
             <div class="row">
                 <p class="col-md-3 ">Member Share</p>
                 <p class="col-md-2 ">Annual Fee</p>
@@ -271,7 +269,7 @@
         </div>
 
         <br />
-        <div class="container">
+        <div class="">
             <div class="row">
                 <a href="https://www.wayfindersbusinesscooperative.ca/test.commerce.v1/" class="col-lg-2 apply"><p>Apply to Join</p></a>
 
@@ -282,17 +280,14 @@
 
     <div class="faq">
         <br />
-        <div class="container">
+        
             <div class="row">
                 <a class="font-weight-bold col-md-3 " name="faq">FAQ</a>
 
             </div>
             <h3>(click questions to see answers)</h3>
-        </div>
+        
         <br />
-
-
-        <div class="container">
 
             <div id="accordion">
                 <div class="card card1">
@@ -307,7 +302,7 @@
                             start a business, run a business and grow your business.
                         </div>
                     </div>
-                </div>
+                
                 <br />
                 <div class="card card1">
                     <div class="card-header">
@@ -342,14 +337,14 @@
     </div>
 
 
-    <div class="container">
+
         <br />
         <br />
         <div class="row">
             <p class="want font-weight-bold col-md-10">Want to support the work we're doing?</p>
             <button class="col-md-2  btn-success donate" type="submit">Donate</button>
         </div>
-    </div>
+    
 
     <!-- Footer -->
     <br />
@@ -358,7 +353,7 @@
         <br />
         <br />
         <br />
-        <div class="container">
+      
             <div class="row">
                 <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/" class="col-md-3"><h3 style="color:white">Home</h3></a>
                 <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/services/" class="col-md-3"><h3 style="color:white">Services</h3></a>
@@ -366,10 +361,10 @@
 
             </div>
 
-        </div>
+       
 
 
-        <div class="container">
+      
             <br />
             <div class="row">
                 <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/about-us/" class="col-md-3"><h3 style="color:white">About Us</h3></a>
@@ -396,17 +391,17 @@
                
 
 
-            </div>
+            
         </div>
 
-        <div class="container">
+  
             <br />
             <div class="row">
                 <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/contact-us/" class="col-md-3"><h3 style="color:white">Contact us</h3></a>
             </div>
-        </div>
+       
         <br />
-        <div class="container">
+    
             <div class="row">
                 <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/" class="col-md-6"><h3 style="color:white" class="font-weight-bold">Wayfinders Business Co-operative</h3></a>
                 <div class="col-md-6">
@@ -424,13 +419,13 @@
                     </a>
                 </div>
             </div>
-        </div>
+    
 
-        <div class="container">
+      
             <div class="row">
                 <a href="mailto:info@wayfinders.coop" class="col-md-3"><h5 style="color:white">info@wayfinders.coop</h5></a><br />
             </div>
-        </div>
+       
 
         <br />
         <br />
