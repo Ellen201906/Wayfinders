@@ -28,16 +28,33 @@
     <header>
         <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3">
             <h5 class="my-0 mr-md-auto font-weight-bold h1">Wayfinders</h5>
-            <nav class="my-2 my-md-0 mr-md-3">
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+            <nav class="my-2 my-md-0 mr-md-3 navbar navbar-expand-sm navbar-dark">
+			  <a class="navbar-brand" href="#"></a>
+			 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
   </button>
+  <div class="collapse navbar-collapse" id="collapsibleNavbar">
+  <ul class="navbar-nav">
+      <li class="nav-item">
                 <a class="p-2 text-white font-weight-bold h5" href="#services">Services</a>
-                <a class="p-2 text-white font-weight-bold h5" href="#about">About</a>
+				</li>
+				 <li class="nav-item">
+                <a class="p-2 text-white font-weight-bold h5" href="#about">About</a
+				</li>
+				 <li class="nav-item">
                 <a class="p-2 text-white font-weight-bold h5" href="#community">Community</a>
+				</li>
+				 <li class="nav-item">
                 <a class="p-2 text-white font-weight-bold h5" href="#join">Join</a>
+				</li>
+				 <li class="nav-item">
                 <a class="p-2 text-white font-weight-bold h5" href="#faq">FAQ</a>
+				</li>
+				  </ul> 
+				  </div>
             </nav>
+
+
             <a class="btn btn-outline-primary" href="#">Login</a>
         </div>
 
@@ -49,7 +66,7 @@
     </header>
 
     <!-- Section Categories-->
-    <section class="jumbotron text-center">
+    <section class="jumbotron text-left">
         <div class="container">
             <h2>
                 At a crossroads? Have an idea on a napkin?
@@ -132,7 +149,7 @@
         </span>
     </div>
     <br><br>
-    <h2 style="color:#004359;position:absolute;text-align:center; padding-left:500px;"><b>On the ground and in the cloud</b></h2>
+    <h2 style="color:#004359;position:absolute;text-align:left; padding-left:500px;"><b>On the ground and in the cloud</b></h2>
     <br><br><br> <br><br><br><br>
     <div class="c">
         <div><img src="Photos\Edited-images\builders-edited.jpg" alt="" /></div>
