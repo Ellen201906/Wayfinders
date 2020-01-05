@@ -1,12 +1,11 @@
 ﻿<!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title>Wayfinders Business Co-operative &#8211; Wayfinders Landing</title>
-	<meta charset="utf-8">
+ <title>Wayfinders Business Co-operative &#8211; Wayfinders Landing</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
- 
+    <meta charset="utf-8">
     <link rel="icon" href="images/favicon.ico" type="image/x-icon">
     <!-- Stylesheets-->
     <link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap.min.css">
@@ -14,19 +13,14 @@
     <link rel="stylesheet" type="text/css" href="css/yee.css">
     <link rel="stylesheet" type="text/css" href="css/shun.css">
     <link rel="stylesheet" type="text/css" href="css/deepa.css">
-
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-    
-
-
     <link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.7.0/css/all.css' integrity='sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ' crossorigin='anonymous'>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
-	<link href="https://fonts.googleapis.com/css?family=Work+Sans&display=swap" rel="stylesheet">
     <!-- Javascript-->
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdn.staticfile.org/popper.js/1.15.0/umd/popper.min.js"></script>
+    <script src="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
     
   
 </head>
@@ -364,59 +358,49 @@
         <br />
         <br />
         <br />
-      
+              <div class="container">
             <div class="row">
-                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/" class="col-md-3"><h3 style="color:white">Home</h3></a>
-                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/services/" class="col-md-3"><h3 style="color:white">Services</h3></a>
-                <a class="col-md-6"><h3 style="color:white">Subscribe to our Newsletter</h3></a>
-
+			<div class="col-sm-3">
+                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/" ><h3 style="color:white">Home</h3></a>
+                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/about-us/" ><h3 style="color:white">About us</h3></a>
+                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/contact-us/" ><h3 style="color:white">Contact us</h3></a>
+			  
+			  
             </div>
 
-       
+         
+                <div class="col-sm-3">
+                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/services/" ><h3 style="color:white">Services</h3></a>
+                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/community/" ><h3 style="color:white">Community</h3></a>
+				</div>
 
-
-      
-            <br />
-            <div class="row">
-                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/about-us/" class="col-md-3"><h3 style="color:white">About Us</h3></a>
-                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/community/" class="col-md-3"><h3 style="color:white">Community</h3></a>
-                <form action="./subscriber.php " method="post">
-                    <div class="input-group col-md-48 ">
-                        <input type="email" name="email" required class="form-control-lg col-lg-30" placeholder="Enter your email" style="border-radius:30px ">
-
-                        <span class="input-group-btn" style="margin-left:-60px">
-                            <button class="btnSub col-md-12 mx-3 " onclick="submitFun()" type="submit" require title="By entering your email and clicking the button, you are agreeing to receive our newsletter regularly.Easy unsubscribe links are provided in every email.">Subscribe </button>
-                          
+				<div class="col-sm-6">
+				 <a><h3 style="color:white">Subscribe to our Newsletter</h3></a>
+                  <form action="./subscriber.php " method="post">
+                    <div class="input-group ">
+                        <input type="email" name="email" required class="form-control-lg" placeholder="Enter your email">
+                        <span class="input-group-btn" >
+                            <button class="btnSub  mx-3 " onclick="submitFun()" type="submit" require title="By entering your email and clicking the button, you are agreeing to receive our newsletter regularly.Easy unsubscribe links are provided in every email.">Subscribe </button>                       
                         </span>
                     </div>
                     <script>
                         function submitFun() {
-                            alert("Welcome to subscribe our newsletter ");
-                           
-
+                            alert("Welcome to subscribe our newsletter ");                      
                         }
-
                     </script>
+                </form> 
+				
+				</div>
 
-                </form>
-               
+				<br/><br/> <br/><br/><br/> <br/><br/><br/>
+				 <div class="row">
+				 <div class="col-sm-6">
+				  <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/" ><h4 style="color:white" class="font-weight-bold">Wayfinders Business Co-operative</h3></a>
+			      <a href="mailto:info@wayfinders.coop" ><h5 style="color:white">info@wayfinders.coop</h5></a><br />
+			      </div>
 
-
-            
-        </div>
-
-  
-            <br />
-            <div class="row">
-                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/contact-us/" class="col-md-3"><h3 style="color:white">Contact us</h3></a>
-            </div>
-       
-        <br />
-    
-            <div class="row">
-                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/" class="col-md-6"><h3 style="color:white" class="font-weight-bold">Wayfinders Business Co-operative</h3></a>
-                <div class="col-md-6">
-                    <!-- Facebook -->
+				   <div class="col-sm-6">
+				  <!-- Facebook -->
                     <a href="http://www.facebook.com/wayfindersbusinessscooperative" type="button" class="btn-floating btn-fb mx-3">
                         <i class="fa fa-facebook"> </i>
                     </a>
@@ -428,20 +412,10 @@
                     <a type="button" href="https://www.linkedin.com/groups/13594348/" class="btn-floating btn-li mx-3">
                         <i class="fa fa-linkedin"> </i>
                     </a>
-                </div>
-            </div>
-    
-
-      
-            <div class="row">
-                <a href="mailto:info@wayfinders.coop" class="col-md-3"><h5 style="color:white">info@wayfinders.coop</h5></a><br />
-            </div>
-       
-
-        <br />
-        <br />
+               </div> 
+			   </div>
+  </div>      
     </div>
-
-
+	</div>
 </body> 
 </html>
