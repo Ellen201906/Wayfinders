@@ -1,7 +1,7 @@
 ﻿.How {
     color: #044c64;
     background-color: white;
-    margin-left: 120px;
+  
    font-style:italic;
 }
 
@@ -10,14 +10,14 @@
     font-size:36px;
 }
 
-.Fee {
+.fee {
     font-style: italic;
     font-size: 30px;
 }
 
 
 .number { 
-    font-size: 26px;
+    font-size: 30px;
 }
 
 .member {   
@@ -25,7 +25,7 @@
 
 }
 
-.Benefit {
+.benefit {
     font-style: italic;
     font-size: 30px;
    
@@ -33,20 +33,17 @@
 }
 .guidance {
     font-size: 18px;
- 
-
-
 }
 
 .apply {
     color: white;
     background-color: green;
     border-radius: 30px;
-    font-size:24px;
-    text-align:center;
+    font-size:26px;
+   
 }
 
-.apply:hover {color: black    }
+.apply:hover {color:black }
 
 .faq {
     background-color: #044c64;
@@ -84,7 +81,7 @@
 .footer1 {
     background-color: black;
     color: white;
-    padding-left: 120px;
+ 
 }
 
 
@@ -128,7 +125,7 @@
     background: #044c64;
     color: #fff;
     border-radius: 30px;
-    font-size:28px;
+    font-size:24px;
 }
 
 .btnSub:hover {
