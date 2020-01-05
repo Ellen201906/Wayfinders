@@ -8,6 +8,7 @@
     <meta charset="utf-8">
     <link rel="icon" href="images/favicon.ico" type="image/x-icon">
     <!-- Stylesheets-->
+    <link href="https://fonts.googleapis.com/css?family=Work+Sans&display=swap" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="css/bootstrap/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/custom.css">
     <link rel="stylesheet" type="text/css" href="css/yee.css">
@@ -361,21 +362,21 @@
               <div class="container">
             <div class="row">
 			<div class="col-sm-3">
-                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/" ><h3 style="color:white">Home</h3></a>
-                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/about-us/" ><h3 style="color:white">About us</h3></a>
-                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/contact-us/" ><h3 style="color:white">Contact us</h3></a>
+                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/" ><h4 style="color:white">Home</h4></a>
+                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/about-us/" ><h4 style="color:white">About us</h4></a>
+                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/contact-us/" ><h4 style="color:white">Contact us</h4></a>
 			  
 			  
             </div>
 
          
                 <div class="col-sm-3">
-                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/services/" ><h3 style="color:white">Services</h3></a>
-                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/community/" ><h3 style="color:white">Community</h3></a>
+                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/services/" ><h4 style="color:white">Services</h4></a>
+                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/community/" ><h4 style="color:white">Community</h4></a>
 				</div>
 
 				<div class="col-sm-6">
-				 <a><h3 style="color:white">Subscribe to our Newsletter</h3></a>
+				 <a><h4 style="color:white">Subscribe to our Newsletter</h4></a>
                   <form action="./subscriber.php " method="post">
                     <div class="input-group ">
                         <input type="email" name="email" required class="form-control-lg" placeholder="Enter your email">
