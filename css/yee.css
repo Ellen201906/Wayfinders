@@ -7,7 +7,7 @@
 
 .Howto {
     font-style: italic;
-    font-size:36px;
+    font-size:30px;
 }
 
 .fee {
@@ -17,11 +17,11 @@
 
 
 .number { 
-    font-size: 30px;
+    font-size: 28px;
 }
 
 .member {   
-    font-size: 20px;
+    font-size: 24px;
 
 }
 
@@ -60,7 +60,7 @@
 
 .card-link1 {
     color: black;
-    font-size: 26px;
+    font-size: 22px;
     font-style: italic;
 }
 
@@ -69,7 +69,7 @@
     background-color: white;
     font-style: italic;
 
-    font-size: 36px;
+    font-size: 30px;
 }
 
 .donate {
