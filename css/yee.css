@@ -48,13 +48,13 @@
 .faq {
     background-color: #044c64;
     color: white;
-    font-size: 36px;
-    padding-left: 120px;
+    font-size: 30px;
+
 }
 
 .card1 {
     color: #044c64;
-    font-size: 28px;
+    font-size: 24px;
     background-color: white;
 }
 
@@ -68,7 +68,7 @@
     color: #044c64;
     background-color: white;
     font-style: italic;
-    margin-left: 120px;
+
     font-size: 36px;
 }
 
