@@ -69,7 +69,7 @@
 
     <!-- Section Categories-->
     <section class="jumbotron">
-       
+        <div class="container">
             <h2>
                 At a crossroads? Have an idea on a napkin?
                 Just starting up?
@@ -78,12 +78,12 @@
                 We’ve been there. We know how challenging it can be to
                 start a business, run a business and grow your business.
             </p>
-      
+      </div>
     </section>
 
     <!-- Site Section -->
-    <div class="site-section">
-     
+        <div class="site-section">
+        <div class="container">
 
             <div class="row justify-content-left mb-5">
                 <div class="col-md-5 aos-init aos-animate" data-aos="fade-up">
@@ -97,8 +97,8 @@
                         <div class="wrap-icon icon-1">
                             <span class="icon la la-users"></span>
                         </div>
-                        <img src="Icons/icon_guidance.png" alt="Guidance">
-                        <h3 class="mb-3 text-white" style="padding:40px">Guidance</h3>
+                        <img src="Icons/icon_guidance.png" alt="Guidance" >
+                        <h3 class="mb-3 services" >Guidance</h3>
                     </div>
                 </div>
 
@@ -108,7 +108,7 @@
                             <span class="icon la la-toggle-off"></span>
                         </div>
                         <img src="Icons/icon_community.png" alt="Community">
-                        <h3 class="mb-3 text-white" style="padding:40px">Community</h3>
+                        <h3 class="mb-3 services">Community</h3>
                     </div>
                 </div>
                 <div class="col-md-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
@@ -117,7 +117,7 @@
                             <span class="icon la la-umbrella"></span>
                         </div>
                         <img src="Icons/icon_events.png" alt="Events">
-                        <h3 class="mb-3 text-white" style="padding:40px">Events</h3>
+                        <h3 class="mb-3 services">Events</h3>
                     </div>
                 </div>
                 <div class="col-md-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
@@ -126,22 +126,22 @@
                             <span class="icon la la-umbrella"></span>
                         </div>
                         <img src="Icons/icon_training.png" alt="Training">
-                        <h3 class="mb-3 text-white" style="padding:40px">Training</h3>
+                        <h3 class="mb-3 services">Training</h3>
                     </div>
                 </div>
-                <div class="col-md-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+                <div class="col-md-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
                     <div class="feature-1 text-center">
                         <div class="wrap-icon icon-1">
                             <span class="icon la la-umbrella"></span>
                         </div>
                         <img src="Icons/icon_cloud.png" alt="Cloud Tools">
-                        <h3 class="mb-3 text-white" style="padding:40px">Cloud Tools</h3>
+                        <h3 class="mb-3 services">Cloud Tools</h3>
                     </div>
                 </div>
             </div>
 
         </div>
-  
+    </div>
     <!-- Body by Shun Li-->
     <div style="position: relative; width: 100%; height: 100%;">
         <img src="Photos\Edited-images\road_nest-edited.jpg" alt="" width="100%" />
@@ -274,10 +274,9 @@
         <br />
           <div class="container">
             <div class="row">
-                <a class="font-weight-bold col-md-3 " name="faq">FAQ</a>
-
+                <a class="font-weight-bold col-md-3 " name="faq">FAQ</a>			
             </div>
-            <h3>(click questions to see answers)</h3>
+            <h4>(click questions to see answers)</h4>
         
         <br />
 
@@ -335,7 +334,7 @@
         <br />
         <div class="container">
 		<div class="row">
-            <p class="want font-weight-bold col-md-8">Want to support the work we're doing?</p>
+            <p class="want font-weight-bold col-sm-8">Want to support the work we're doing?</p>
             <button class="col-sm-2  btn-success donate"><a href="https://www.paypal.com/donate/?token=sIlWs_22Q4sIN-IgkdsrqFoYTfLeB1OPXFnVc2l8pelfQKlZyivZoUdx-WmdWYi5ECsrhW&country.x=CA&locale.x=CA" style="color:white">Donate<a></button>
         </div>
 		</div>
