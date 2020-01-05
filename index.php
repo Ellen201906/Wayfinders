@@ -272,7 +272,7 @@
 
     <div class="faq">
         <br />
-        
+          <div class="container">
             <div class="row">
                 <a class="font-weight-bold col-md-3 " name="faq">FAQ</a>
 
@@ -327,15 +327,18 @@
         </div>
         <br />
     </div>
+	</div>
 
 
 
         <br />
         <br />
-        <div class="row">
-            <p class="want font-weight-bold col-md-5">Want to support the work we're doing?</p>
-            <button class="col-sm-1  btn-success donate"><a href="https://www.paypal.com/donate/?token=sIlWs_22Q4sIN-IgkdsrqFoYTfLeB1OPXFnVc2l8pelfQKlZyivZoUdx-WmdWYi5ECsrhW&country.x=CA&locale.x=CA" style="color:white">Donate<a></button>
+        <div class="container">
+		<div class="row">
+            <p class="want font-weight-bold col-md-8">Want to support the work we're doing?</p>
+            <button class="col-sm-2  btn-success donate"><a href="https://www.paypal.com/donate/?token=sIlWs_22Q4sIN-IgkdsrqFoYTfLeB1OPXFnVc2l8pelfQKlZyivZoUdx-WmdWYi5ECsrhW&country.x=CA&locale.x=CA" style="color:white">Donate<a></button>
         </div>
+		</div>
     
 
     <!-- Footer -->
