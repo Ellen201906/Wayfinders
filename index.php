@@ -245,7 +245,7 @@
              <div class="col-sm-5" >
                 <p class="fee">Fee structure</p>                   				                   
                 <p class="font-weight-bold number">$100<span class="font-weight-bold number"><i class="fa fa-plus" style="margin-left:50px" aria-hidden="true"></i></span><span class="font-weight-bold number" style="margin-left:50px">$50</span></p>										
-				<p  class="member">Member Share<span style="margin-left:100px">Annual Fee</span></p>
+				<p  class="member">Member Share<span style="margin-left:80px">Annual Fee</span></p>
                
 				<button class="col-sm-5 apply btn-success"><a href="https://www.wayfindersbusinesscooperative.ca/test.commerce.v1/" style="color:white">Apply to Join</a></button>
 			</div>	     
@@ -350,21 +350,21 @@
               <div class="container">
             <div class="row">
 			<div class="col-sm-3">
-                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/" ><h5 style="color:white">Home</h5></a>
-                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/about-us/" ><h5 style="color:white">About us</h5></a>
-                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/contact-us/" ><h5 style="color:white">Contact us</h5></a>
+                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/" ><h4 style="color:white">Home</h4></a>
+                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/about-us/" ><h4 style="color:white">About us</h4></a>
+                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/contact-us/" ><h4 style="color:white">Contact us</h4></a>
 			  
 			  
             </div>
 
          
                 <div class="col-sm-3">
-                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/services/" ><h5 style="color:white">Services</h5></a>
-                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/community/" ><h5 style="color:white">Community</h5></a>
+                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/services/" ><h4 style="color:white">Services</h4></a>
+                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/community/" ><h4 style="color:white">Community</h4></a>
 				</div>
-
+				<br><br><br><br>
 				<div class="col-sm-6">
-				 <a><h5 style="color:white">Subscribe to our Newsletter</h5></a>
+				 <a><h4 style="color:white">Subscribe to our Newsletter</h4></a>
                   <form action="./subscriber.php " method="post">
                     <div class="input-group ">
                         <input type="email" name="email" required class="form-control-lg" placeholder="Enter your email">
@@ -381,7 +381,7 @@
 				
 				</div>
 
-				<br/><br/> <br/><br/><br/> <br/><br/><br/>
+				<br/><br/> <br/><br/><br/> <br/><br/>
 				 <div class="row">
 				 <div class="col-sm-6">
 				  <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/" ><h4 style="color:white" class="font-weight-bold">Wayfinders Business Co-operative</h4></a>
