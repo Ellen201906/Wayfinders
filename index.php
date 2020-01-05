@@ -401,6 +401,7 @@
                     <a type="button" href="https://www.linkedin.com/groups/13594348/" class="btn-floating btn-li mx-3">
                         <i class="fa fa-linkedin"> </i>
                     </a>
+					<br><br><br><br>
                </div> 
 			   </div>
   </div>      
