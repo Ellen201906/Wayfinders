@@ -176,30 +176,24 @@
 	    <div class="container">
         <a name="community"><h1>Meet our Members and partners</h1></a>
         <div class="row">
-		     <div class="col-sm-3 logo">
-            <img src="Logos/P.ink-logo.png" alt="P.ink-logo" title="P.ink-logo" width="140" height="110">
-
-			<br><br><br><br>
-			<img src="Logos/shift1.jpg" alt="shift-m_logo" title="shift-m_logo" width="145" height="55"/>
+		     <div class="col-sm-4 logo">
+            <img src="Logos/P.ink-logo.png" alt="P.ink-logo" title="P.ink-logo" class="logoimage">
+			  <img src="Logos/hanTV-2018-logo.png" alt="hanTV-2018-logo" title="hanTV-2018-logo" class="logoimage">
+			<br>
+			<img src="Logos/shift1.jpg" alt="shift-m_logo" title="shift-m_logo" class="logoimage">
+			<img src="Logos/EFCL-logo.jpg" alt="EFCL-logo" title="EFCL-logo" class="logoimage">
 			</div>
 
-			 <div class="col-sm-3 logo">
-            <img src="Logos/hanTV-2018-logo.png" alt="hanTV-2018-logo" title="hanTV-2018-logo" width="130" height="100">
-			 <br><br><br><br>
-			 <img src="Logos/EFCL-logo.jpg" alt="EFCL-logo" title="EFCL-logo" width="110" height="90">
+			 
+			
+			 <div class="col-sm-4 logo">
+            <img src="Logos/Spark-gallery.png" alt="Spark-gallery.png" title="Spark-gallery.png" class="logoimage">
+			<img src="Logos/TCNG-logo.png" alt="TCNG-logo" title="TCNG-logo" class="logoimage">
+			 <br>
+			 <img src="Logos/Caliber-insurance-logo.png" alt="Caliber-insurance-logo" title="Caliber-insurance-logo" class="logoimage">
+			  <img src="Logos/flamingsoft-logo.jpg" alt="flamingsoft-logo" title="flamingsoft-logo" width="175" height="40" >
 			 </div>
 
-			 <div class="col-sm-3 logo">
-            <img src="Logos/Spark-gallery.png" alt="Spark-gallery.png" title="Spark-gallery.png" width="110" height="110">
-			 <br><br><br><br>
-			 <img src="Logos/Caliber-insurance-logo.png" alt="Caliber-insurance-logo" title="Caliber-insurance-logo" width="180" height="70">
-			 </div>
-
-             <div class="col-sm-3 logo">
-			 <img src="Logos/TCNG-logo.png" alt="TCNG-logo" title="TCNG-logo" width="195" height="90">
-			 <br><br><br><br><br><br>
-             <img src="Logos/flamingsoft-logo.jpg" alt="flamingsoft-logo" title="flamingsoft-logo" width="175" height="40">
-            </div>
 			
            </div>
            </div>
