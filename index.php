@@ -178,6 +178,7 @@
         <div class="row">
 		     <div class="col-sm-3 logo">
             <img src="Logos/P.ink-logo.png" alt="P.ink-logo" title="P.ink-logo" width="140" height="110">
+
 			<br><br><br><br>
 			<img src="Logos/shift1.jpg" alt="shift-m_logo" title="shift-m_logo" width="145" height="55"/>
 			</div>
@@ -199,10 +200,10 @@
 			 <br><br><br><br><br><br>
              <img src="Logos/flamingsoft-logo.jpg" alt="flamingsoft-logo" title="flamingsoft-logo" width="175" height="40">
             </div>
-
+			
            </div>
            </div>
-  
+         <br><br><br><br>
 
     <section class="title ">
 	<div class="container">
@@ -403,7 +404,7 @@
 				
 			
 
-				<br/><br/> <br/><br/><br/> 
+				<br/><br/> <br/><br/><br/> <br/><br/>
 				 <div class="row">
 				 <div class="col-sm-6">
 				  <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/" ><h4 style="color:white" class="font-weight-bold">Wayfinders Business Co-operative</h4></a>
