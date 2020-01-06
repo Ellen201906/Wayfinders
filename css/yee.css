@@ -132,6 +132,10 @@
         color: black;
         background: green;   }
 
+a:hover {
+    font-style: italic
+}
+
 
 
 
