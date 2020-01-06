@@ -142,7 +142,7 @@
 
         </div>
     </div>
-    <!-- Body by Shun Li-->
+    <br/>
     <div style="position: relative; width: 100%; height: 100%;">
         <img src="Photos\Edited-images\road_nest-edited.jpg" alt="" width="100%" />
         <span style="position:absolute;top:40%;left:0%;font-size:50px;color:white;padding-left:300px;padding-right:200px">
@@ -170,32 +170,50 @@
         </h3>
         <br><br>
     </div>
-
-    <section>
+	
+	<!-- Body by deepa-->
+   
+	    <div class="container">
         <a name="community"><h1>Meet our Members and partners</h1></a>
-        <div class="logo-one">
-            <span><img src="Logos/P.ink-logo.png" alt="P.ink-logo" title="P.ink-logo" width="140" height="110"></span>
-            <span><img src="Logos/hanTV-2018-logo.png" alt="hanTV-2018-logo" title="hanTV-2018-logo" width="130" height="100"></span>
-            <span><img src="Logos/Spark-gallery.png" alt="Spark-gallery.png" title="Spark-gallery.png" width="110" height="110"></span>
-            <span><img src="Logos/TCNG-logo.png" alt="TCNG-logo" title="TCNG-logo" width="195" height="90"></span></br>
-        </div>
-        <div class="logo-two">
-            <span><img src="Logos/shift1.jpg" alt="shift-m_logo" title="shift-m_logo" width="145" height="55"/></span>
-            <span><img src="Logos/EFCL-logo.jpg" alt="EFCL-logo" title="EFCL-logo" width="110" height="90"></span>
-            <span><img src="Logos/Caliber-insurance-logo.png" alt="Caliber-insurance-logo" title="Caliber-insurance-logo" width="180" height="70"></span>
-            <span><img src="Logos/flamingsoft-logo.jpg" alt="flamingsoft-logo" title="flamingsoft-logo" width="175" height="40"></span>
-        </div>
-    </section>
+        <div class="row">
+		     <div class="col-sm-3 logo">
+            <img src="Logos/P.ink-logo.png" alt="P.ink-logo" title="P.ink-logo" width="140" height="110">
+			<br><br><br><br>
+			<img src="Logos/shift1.jpg" alt="shift-m_logo" title="shift-m_logo" width="145" height="55"/>
+			</div>
 
-    <section class="title">
+			 <div class="col-sm-3 logo">
+            <img src="Logos/hanTV-2018-logo.png" alt="hanTV-2018-logo" title="hanTV-2018-logo" width="130" height="100">
+			 <br><br><br><br>
+			 <img src="Logos/EFCL-logo.jpg" alt="EFCL-logo" title="EFCL-logo" width="110" height="90">
+			 </div>
+
+			 <div class="col-sm-3 logo">
+            <img src="Logos/Spark-gallery.png" alt="Spark-gallery.png" title="Spark-gallery.png" width="110" height="110">
+			 <br><br><br><br>
+			 <img src="Logos/Caliber-insurance-logo.png" alt="Caliber-insurance-logo" title="Caliber-insurance-logo" width="180" height="70">
+			 </div>
+
+             <div class="col-sm-3 logo">
+			 <img src="Logos/TCNG-logo.png" alt="TCNG-logo" title="TCNG-logo" width="195" height="90">
+			 <br><br><br><br><br><br>
+             <img src="Logos/flamingsoft-logo.jpg" alt="flamingsoft-logo" title="flamingsoft-logo" width="175" height="40">
+            </div>
+
+           </div>
+           </div>
+  
+
+    <section class="title ">
+	<div class="container">
         <h2><i><b>See what they have to say...</i></b></h2>
-        <div class="grid-container">
-
-            <div class="column1">
+        <div class="row">
+		    
+            <div class="col-sm-3 grid-container1 ">
                 <p>
                     <i>"WayFinders is life-affirming, all-inclusive endeavor.At its core,serve communities and individuals by placing people at the centre of its technology,hile contributing to the growing tapestry of new and emerging IT business in Edmonton."</i></br>
                     </br>
-                    </br>
+                   
                     <b>
                         Yuonne Chiu,Exective Director,</br>
                         Multicultural Health Brokers Co-operative
@@ -203,7 +221,7 @@
                 </p>
             </div>
 
-            <div class="column2">
+            <div class="col-sm-3 grid-container1">
                 <p>
                     <i>"Kindness and generosity is fundamental to the company culture of collaborative and cooperative team work, while respecting all and embracing everyone with the sense of belonging."</i></br>
                     </br>
@@ -215,7 +233,7 @@
                 </p>
             </div>
 
-            <div class="column3">
+            <div class="col-sm-3 grid-container1">
                 <p>
                     <i>"I believe that WayFinders Business Cooperative will provide a strong platform of Cloud tools."</i></br>
                     </br>
@@ -226,8 +244,13 @@
                     </b>
                 </p>
             </div>
-    </section>
 
+			</div>
+			</div>
+
+			<br><br>
+    </section>
+	
     <section>
         <div class="banner"></div>
     </section>
@@ -245,12 +268,11 @@
              <div class="col-sm-5" >
                 <p class="fee">Fee structure</p>                   				                   
                 <p class="font-weight-bold number">$100<span class="font-weight-bold number"><i class="fa fa-plus" style="margin-left:50px" aria-hidden="true"></i></span><span class="font-weight-bold number" style="margin-left:50px">$50</span></p>										
-				<p  class="member">Member Share<span style="margin-left:80px">Annual Fee</span></p>
-               
+				<p  class="member">Member Share<span style="margin-left:80px">Annual Fee</span></p>              
 				<button class="col-sm-5 apply btn-success"><a href="https://www.wayfindersbusinesscooperative.ca/test.commerce.v1/" style="color:white">Apply to Join</a></button>
 			</div>	     
-						
-             <div class="col-sm-4">
+				<br><br><br><br>		
+             <div class="col-sm-5">
 			 <p  class="benefit">Benefits</p>		
 			  <ul class="guidance">
                     <li >Guidance and Business Matchmaking</li>
@@ -260,10 +282,11 @@
                     <li >Voting share at Annual General Meeting</li>
                </ul>
             </div>
+
 			</div>
             </div>
 	</div>
-	</div>
+	
      
     
           
@@ -338,33 +361,31 @@
             <button class="col-sm-2  btn-success donate"><a href="https://www.paypal.com/donate/?token=sIlWs_22Q4sIN-IgkdsrqFoYTfLeB1OPXFnVc2l8pelfQKlZyivZoUdx-WmdWYi5ECsrhW&country.x=CA&locale.x=CA" style="color:white">Donate<a></button>
         </div>
 		</div>
-    
+       <br /><br />
 
     <!-- Footer -->
-    <br />
-    <br />
+    
+   
     <div class="footer1">
-        <br />
-        <br />
-        <br />
-              <div class="container">
+        <br /> <br /> <br />
+            <div class="container">
             <div class="row">
+
 			<div class="col-sm-3">
                 <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/" ><h4 style="color:white">Home</h4></a>
                 <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/about-us/" ><h4 style="color:white">About us</h4></a>
-                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/contact-us/" ><h4 style="color:white">Contact us</h4></a>
-			  
-			  
+                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/contact-us/" ><h4 style="color:white">Contact us</h4></a>			  			  
             </div>
-
          
                 <div class="col-sm-3">
                 <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/services/" ><h4 style="color:white">Services</h4></a>
                 <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/community/" ><h4 style="color:white">Community</h4></a>
+				<br>
 				</div>
-				<br><br><br><br>
+			    
+				<br>
 				<div class="col-sm-6">
-				 <a><h4 style="color:white">Subscribe to our Newsletter</h4></a>
+				 <h4 style="color:white">Subscribe to our Newsletter</h4>
                   <form action="./subscriber.php " method="post">
                     <div class="input-group ">
                         <input type="email" name="email" required class="form-control-lg" placeholder="Enter your email">
@@ -378,10 +399,11 @@
                         }
                     </script>
                 </form> 
-				
 				</div>
+				
+			
 
-				<br/><br/> <br/><br/><br/> <br/><br/>
+				<br/><br/> <br/><br/><br/> 
 				 <div class="row">
 				 <div class="col-sm-6">
 				  <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/" ><h4 style="color:white" class="font-weight-bold">Wayfinders Business Co-operative</h4></a>
@@ -405,7 +427,8 @@
                </div> 
 			   </div>
   </div>      
-    </div>
+    
+	</div>	
 	</div>
 </body> 
 </html>
