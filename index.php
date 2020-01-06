@@ -32,10 +32,10 @@
             <h5 class="my-0 mr-md-auto font-weight-bold h1">Wayfinders</h5>
             <nav class="my-2 my-md-0 mr-md-3 navbar navbar-expand-sm navbar-dark">
 			  <a class="navbar-brand" href="#"></a>
-			 <button class="navbar-toggler  type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
-               <span class="navbar-toggler-icon btn-lg btn-outline-success"></span>
+			 <button class="navbar-toggler btn-lg btn-success" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+               <span class="navbar-toggler-icon btn-lg btn-success btn-outline-success" style="background-color:green"></span>
              </button>
-			 <span><a class="btn btn-outline-primary" href="#" style="float:right;margin-left:30px">Login</a>
+			 <span><a class="btn btn-outline-primary" href="#" style="float:right;margin-left:120px">Login</a>
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
   <ul class="navbar-nav">
       <li class="nav-item">
