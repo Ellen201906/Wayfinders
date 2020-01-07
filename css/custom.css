@@ -71,6 +71,8 @@ min-height: 385px;
   width: 80px;
 }
 
+
+
 .site-section
 {
   height: 500px !important;
@@ -89,4 +91,9 @@ min-height: 385px;
 body {
     font-family: 'Work Sans', sans-serif;
 
+}
+
+.position1{
+    position:fixed;
+    top:0;
 }
