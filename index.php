@@ -363,7 +363,7 @@
         <div class="container">
 		<div class="row">
             <p class="want font-weight-bold col-sm-7">Want to support the work we're doing?</p>
-            <button class="col-sm-2  btn-success donate"><a href="https://www.paypal.com/donate/?token=sIlWs_22Q4sIN-IgkdsrqFoYTfLeB1OPXFnVc2l8pelfQKlZyivZoUdx-WmdWYi5ECsrhW&country.x=CA&locale.x=CA" style="color:white">Donate<a></button>
+            <button class="col-sm-2 btn-success donate"><a href="https://www.paypal.com/donate/?token=sIlWs_22Q4sIN-IgkdsrqFoYTfLeB1OPXFnVc2l8pelfQKlZyivZoUdx-WmdWYi5ECsrhW&country.x=CA&locale.x=CA" style="color:white">Donate<a></button>
         </div>
 		</div>
        <br /><br />
