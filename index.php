@@ -28,15 +28,14 @@
 <body>
     <!-- Page Header-->
 		
-    <header >
-	  
-	    <image src="Logos/wayfinders.png" style="width:20%;height:10%" />
+    <header >	  
+	    <image src="Logos/wayfinders.png" style="width:20%;height:10%"/>
 		<nav class="navbar navbar-expand-sm  navbar-dark" >
           <a class="navbar-brand p-3 text-white font-weight-bold h5" href="#"></a>
        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar" style="background-color:#0A425D">
         <span class="navbar-toggler-icon"></span>
          </button>
-       <div class="collapse navbar-collapse container" id="collapsibleNavbar">
+       <div class="collapse navbar-collapse " id="collapsibleNavbar">
 	  
          <ul class="navbar-nav"> 	
             <li class="nav-item ">
