@@ -45,17 +45,17 @@ h2{
 }
 
 .grid-container1 {
-    border-color:white;
-    border-style:solid;
-    background-color:white;
-  margin: 5px;
-
+    border-color: white;
+    border-style: solid;
+    background-color: white;
+    padding: 5px;
+    margin: 5px;
 }
 
 .grid-container1 div{
   background-color: white;
   text-align:justify-all;
-  padding: 30px  ;
+  padding: 10px  ;
   font-size: 17px; 
 }
 
@@ -65,7 +65,7 @@ h2{
 	color:#044c64;
 	font-family:sans-serif;
 	text-align:justify-all;
-	padding: 2px;	
+	padding: 5px;	
 }
 
 .banner {
