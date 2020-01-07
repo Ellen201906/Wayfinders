@@ -27,39 +27,41 @@
 </head>
 <body>
     <!-- Page Header-->
-    <header>
-        <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3">
-            <h5 class="my-0 mr-md-auto font-weight-bold h1">Wayfinders</h5>
-            <nav class="my-2 my-md-0 mr-md-3 navbar navbar-expand-sm navbar-dark">
-			  <a class="navbar-brand" href="#"></a>
-			 <button class="navbar-toggler btn-lg btn-success" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
-               <span class="navbar-toggler-icon btn-lg btn-success btn-outline-success" style="background-color:green"></span>
-             </button>
-			 <span><a class="btn btn-outline-primary" href="#" style="float:right;margin-left:120px">Login</a>
-  <div class="collapse navbar-collapse" id="collapsibleNavbar">
-  <ul class="navbar-nav">
-      <li class="nav-item">
-                <a class="p-2 text-white font-weight-bold h5" href="#services">Services</a>
+		
+    <header >
+	  
+	    <image src="Logos/wayfinders.png" style="width:13%;height:7%" />
+		<nav class="navbar navbar-expand-sm  navbar-dark" >
+          <a class="navbar-brand p-3 text-white font-weight-bold h5" href="#"></a>
+       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar" style="background-color:#0A425D">
+        <span class="navbar-toggler-icon"></span>
+         </button>
+       <div class="collapse navbar-collapse" id="collapsibleNavbar">
+	  
+         <ul class="navbar-nav"> 	
+            <li class="nav-item ">
+                <a class="p-3 text-white font-weight-bold h4 " href="#services" >Services</a>
 				</li>
 				 <li class="nav-item">
-                <a class="p-2 text-white font-weight-bold h5" href="#about">About</a
+                <a class="p-3 text-white font-weight-bold h4" href="#about" >About</a
 				</li>
 				 <li class="nav-item">
-                <a class="p-2 text-white font-weight-bold h5" href="#community">Community</a>
+                <a class="p-3 text-white font-weight-bold h4" href="#community">Community</a>
 				</li>
 				 <li class="nav-item">
-                <a class="p-2 text-white font-weight-bold h5" href="#join">Join</a>
+                <a class="p-3 text-white font-weight-bold h4" href="#join">Join</a>
 				</li>
 				 <li class="nav-item">
-                <a class="p-2 text-white font-weight-bold h5" href="#faq">FAQ</a>
+                <a class="p-3 text-white font-weight-bold h4" href="#faq">FAQ</a>
+				</li>
+				<li><a class="p-3  font-weight-bold h4" href="#" style="color:#3EB01E;">Login</a>
 				</li>
 				  </ul> 
-				  </div>
-            </nav>
-
-
-            
-        </div>
+				 </div>
+				
+				  </nav>
+				 
+ 
 
         <div class="header-separator header-separator-bottom ">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
