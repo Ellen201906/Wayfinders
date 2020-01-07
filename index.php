@@ -268,7 +268,7 @@
 	
 		<div class="row">
 
-             <div class="col-sm-6" >
+             <div class="col-sm-5" >
                 <p class="fee">Fee structure</p>                   				                   
                 <p class="font-weight-bold number">$100<span class="font-weight-bold number"><i class="fa fa-plus" style="margin-left:40px" aria-hidden="true"></i></span><span class="font-weight-bold number" style="margin-left:40px">$50</span></p>										
 				<p  class="member" style="margin-top:-30px">member Share<span style="margin-left:70px">Annual Fee</span></p>              
@@ -277,7 +277,7 @@
 			<br><br>
 			</div>	     
 						
-             <div class="col-sm-6">
+             <div class="col-sm-5">
 			 <p  class="benefit">Benefits</p>		
 			  <ul class="guidance">
                     <li >Guidance and Business Matchmaking</li>
@@ -363,7 +363,7 @@
         <div class="container">
 		<div class="row">
             <p class="want font-weight-bold col-sm-7">Want to support the work we're doing?</p>
-            <button class="col-sm-2 btn-success donate"><a href="https://www.paypal.com/donate/?token=sIlWs_22Q4sIN-IgkdsrqFoYTfLeB1OPXFnVc2l8pelfQKlZyivZoUdx-WmdWYi5ECsrhW&country.x=CA&locale.x=CA" style="color:white">Donate<a></button>
+            <button class="col-sm-2 btn btn-success donate"><a href="https://www.paypal.com/donate/?token=sIlWs_22Q4sIN-IgkdsrqFoYTfLeB1OPXFnVc2l8pelfQKlZyivZoUdx-WmdWYi5ECsrhW&country.x=CA&locale.x=CA" style="color:white">Donate<a></button>
         </div>
 		</div>
        <br /><br />
