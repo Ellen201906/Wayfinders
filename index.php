@@ -39,20 +39,25 @@
           <div class="collapse navbar-collapse " id="collapsibleNavbar">	  
           <ul class="navbar-nav"> 	
             <li class="nav-item ">
-                <a class="p-3 text-white font-weight-bold h4 " href="#services" >Services</a>
+                <a class="p-3 text-white font-weight-bold h4 " href="#services" style="padding:100px" >Services</a>
 				</li>
+				<br>
 				 <li class="nav-item">
-                <a class="p-3 text-white font-weight-bold h4" href="#about" >About</a
+                <a class="p-3 text-white font-weight-bold h4" href="#about" >About</a>
 				</li>
+				<br>
 				 <li class="nav-item">
                 <a class="p-3 text-white font-weight-bold h4" href="#community">Community</a>
 				</li>
+				<br>
 				 <li class="nav-item">
                 <a class="p-3 text-white font-weight-bold h4" href="#join">Join</a>
 				</li>
+				<br>
 				 <li class="nav-item">
                 <a class="p-3 text-white font-weight-bold h4" href="#faq">FAQ</a>
 				</li>
+				<br>
 				<li><a class="p-3 text-white  font-weight-bold h4  btn-outline-success" href="#" >Login</a>
 				</li>
 				  </ul> 
