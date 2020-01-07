@@ -28,16 +28,16 @@
 <body>
     <!-- Page Header-->
 		
-    <header >	  
-	    <image src="Logos/wayfinders.png" style="width:20%;height:10%"/>
-		<nav class="navbar navbar-expand-sm  navbar-dark" >
+    <header >	
+	  <div >
+	    <image src="Logos/wayfinders.png" style="width:200px;height:90px;margin-left:40px">
+		<nav class="navbar navbar-expand-sm  navbar-dark" style="float:right;margin-top:20px" >
           <a class="navbar-brand p-3 text-white font-weight-bold h5" href="#"></a>
-       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar" style="background-color:#0A425D">
-        <span class="navbar-toggler-icon"></span>
-         </button>
-       <div class="collapse navbar-collapse " id="collapsibleNavbar">
-	  
-         <ul class="navbar-nav"> 	
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar" style="background-color:#0A425D">
+          <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse " id="collapsibleNavbar">	  
+          <ul class="navbar-nav"> 	
             <li class="nav-item ">
                 <a class="p-3 text-white font-weight-bold h4 " href="#services" >Services</a>
 				</li>
@@ -53,13 +53,13 @@
 				 <li class="nav-item">
                 <a class="p-3 text-white font-weight-bold h4" href="#faq">FAQ</a>
 				</li>
-				<li><a class="p-3  font-weight-bold h4" href="#" style="color:#3EB01E;">Login</a>
+				<li><a class="p-3 text-white  font-weight-bold h4  btn-outline-success" href="#" >Login</a>
 				</li>
 				  </ul> 
 				 </div>
 				
 				  </nav>
-				 
+				 </div>
  
 
         <div class="header-separator header-separator-bottom ">
