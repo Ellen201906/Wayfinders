@@ -89,68 +89,33 @@
       </div>
     </section>
 
-    <!-- Site Section -->
-        <div class="site-section">
-        <div class="container">
-
-            <div class="row justify-content-left mb-5">
-                <div class="col-md-5 aos-init aos-animate" data-aos="fade-up">
-                    <a name="services"><h2 class="section-heading text-white">We are here to help.</h2></a>
-                </div>
-            </div>
-
-            <div class="row here-to-help">
-                <div class="col-md-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="">
-                    <div class="feature-1 text-center">
-                        <div class="wrap-icon icon-1">
-                            <span class="icon la la-users"></span>
-                        </div>
-                        <img src="Icons/icon_guidance.png" alt="Guidance" >
-                        <h3 class="mb-3 services" >Guidance</h3>
-                    </div>
-                </div>
-
-                <div class="col-md-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                    <div class="feature-1 text-center">
-                        <div class="wrap-icon icon-1">
-                            <span class="icon la la-toggle-off"></span>
-                        </div>
-                        <img src="Icons/icon_community.png" alt="Community">
-                        <h3 class="mb-3 services">Community</h3>
-                    </div>
-                </div>
-                <div class="col-md-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-                    <div class="feature-1 text-center">
-                        <div class="wrap-icon icon-1">
-                            <span class="icon la la-umbrella"></span>
-                        </div>
-                        <img src="Icons/icon_events.png" alt="Events">
-                        <h3 class="mb-3 services">Events</h3>
-                    </div>
-                </div>
-                <div class="col-md-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-                    <div class="feature-1 text-center">
-                        <div class="wrap-icon icon-1">
-                            <span class="icon la la-umbrella"></span>
-                        </div>
-                        <img src="Icons/icon_training.png" alt="Training">
-                        <h3 class="mb-3 services">Training</h3>
-                    </div>
-                </div>
-                <div class="col-md-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-                    <div class="feature-1 text-center">
-                        <div class="wrap-icon icon-1">
-                            <span class="icon la la-umbrella"></span>
-                        </div>
-                        <img src="Icons/icon_cloud.png" alt="Cloud Tools">
-                        <h3 class="mb-3 services">Cloud Tools</h3>
-                    </div>
-                </div>
-            </div>
-
+	<div style="background-color:#0A425D">
+	 <div class="container" >
+	  <a name="services"><h2 class="section-heading text-white">We are here to help.</h2></a>
+         <div class="row">
+		    <div class="col-sm-4">
+              <img src="Icons/icon_guidance.png" alt="Guidance" title="Guidance" class="iconimage">			    
+			  <img src="Icons/icon_community.png" alt="Community" title="Community" class="iconimage">			
+			   <h4 class="services">Guidance<span class="services" >Community</span></h> 			  			
+			<br><br>
+			</div>			 
+			
+			<div class="col-sm-4 ">
+                 <img src="Icons/icon_events.png" alt="Events" title="Guidance" class="iconimage">
+				 <img src="Icons/icon_training.png" alt="Training" title="Guidance" class="iconimage">
+				  <h4 class="services">Events<span style="margin-left:100px">Training</span></h4>
+				  <br><br>
+			</div>	
+			
+			<div class="col-sm-3 ">
+			     <img src="Icons/icon_cloud.png" alt="Cloud Tools" title="Guidance" class="iconimage"> 
+				  <h4 class="services">Cloud Tools</h4>				 
+			</div>	
         </div>
-    </div>
-    <br/>
+       </div>
+	   </div>
+   
+
 	 <!-- Body by Shun Li-->
     <div style="position: relative;">
         <img src="Photos\Edited-images\road_nest-edited.jpg" class="a"/>
@@ -159,7 +124,8 @@
             community to support you wherever you are.
         </span>
     </div>
-    <div class="c">
+    
+	<div class="c">
         <br><br><br> <br>
         <h2 style="position:relative;"><b>On the ground and in the cloud</b></h2>
         <br><br><br> <br>
@@ -183,34 +149,31 @@
         <br><br><br><br>
     </div>
 
+
    
 	
 	<!-- Body by deepa-->
    
 	    <div class="container">
-        <a name="community"><h1>Meet our Members and partners</h1></a>
-        <div class="row">
-		     <div class="col-sm-4 logo">
-            <img src="Logos/P.ink-logo.png" alt="P.ink-logo" title="P.ink-logo" class="logoimage">
+          <a name="community"><h2>Meet our Members and partners</h2></a>
+         <div class="row">
+		    <div class="col-sm-4 logo">
+              <img src="Logos/P.ink-logo.png" alt="P.ink-logo" title="P.ink-logo" class="logoimage">
 			  <img src="Logos/hanTV-2018-logo.png" alt="hanTV-2018-logo" title="hanTV-2018-logo" class="logoimage">
-			<br>
-			<img src="Logos/shift1.jpg" alt="shift-m_logo" title="shift-m_logo" class="logoimage">
-			<img src="Logos/EFCL-logo.jpg" alt="EFCL-logo" title="EFCL-logo" class="logoimage">
-			</div>
-
-			 
+			  <br>
+			  <img src="Logos/shift1.jpg" alt="shift-m_logo" title="shift-m_logo" class="logoimage">
+			  <img src="Logos/EFCL-logo.jpg" alt="EFCL-logo" title="EFCL-logo" class="logoimage">
+			</div>			 
 			
-			 <div class="col-sm-4 logo">
-            <img src="Logos/Spark-gallery.png" alt="Spark-gallery.png" title="Spark-gallery.png" class="logoimage">
-			<img src="Logos/TCNG-logo.png" alt="TCNG-logo" title="TCNG-logo" class="logoimage">
+			<div class="col-sm-4 logo">
+             <img src="Logos/Spark-gallery.png" alt="Spark-gallery.png" title="Spark-gallery.png" class="logoimage">
+			 <img src="Logos/TCNG-logo.png" alt="TCNG-logo" title="TCNG-logo" class="logoimage">
 			 <br>
 			 <img src="Logos/Caliber-insurance-logo.png" alt="Caliber-insurance-logo" title="Caliber-insurance-logo" class="logoimage">
-			  <img src="Logos/flamingsoft-logo.jpg" alt="flamingsoft-logo" title="flamingsoft-logo" width="175" height="40" >
-			 </div>
-
-			
-           </div>
-           </div>
+			 <img src="Logos/flamingsoft-logo.jpg" alt="flamingsoft-logo" title="flamingsoft-logo" width="175" height="40" >
+			</div>			
+        </div>
+       </div>
          <br><br><br><br>
 
     <section class="title ">
