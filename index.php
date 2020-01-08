@@ -155,7 +155,7 @@
 	<!-- Body by deepa-->
    
 	    <div class="container">
-          <a name="community"><h2>Meet our Members and partners</h2></a>
+          <a name="community"><h1>Meet our Members and partners</h1></a>
          <div class="row">
 		    <div class="col-sm-4 logo">
               <img src="Logos/P.ink-logo.png" alt="P.ink-logo" title="P.ink-logo" class="logoimage">
