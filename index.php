@@ -89,31 +89,69 @@
       </div>
     </section>
 
-	<div style="background-color:#0A425D">
-	 <div class="container" >
-	  <a name="services"><h2 class="section-heading text-white">We are here to help.</h2></a>
-         <div class="row">
-		    <div class="col-sm-4">
-              <img src="Icons/icon_guidance.png" alt="Guidance" title="Guidance" class="iconimage">			    
-			  <img src="Icons/icon_community.png" alt="Community" title="Community" class="iconimage">			
-			   <h4 class="services">Guidance<span class="services" >Community</span></h> 			  			
-			<br><br>
-			</div>			 
-			
-			<div class="col-sm-4 ">
-                 <img src="Icons/icon_events.png" alt="Events" title="Guidance" class="iconimage">
-				 <img src="Icons/icon_training.png" alt="Training" title="Guidance" class="iconimage">
-				  <h4 class="services">Events<span style="margin-left:100px">Training</span></h4>
-				  <br><br>
-			</div>	
-			
-			<div class="col-sm-3 ">
-			     <img src="Icons/icon_cloud.png" alt="Cloud Tools" title="Guidance" class="iconimage"> 
-				  <h4 class="services">Cloud Tools</h4>				 
-			</div>	
+	<!-- Site Section -->
+    <div class="site-section">
+        <div class="container">
+
+            <div class="row justify-content-left mb-5">
+                <div class="col-md-5 aos-init aos-animate" data-aos="fade-up">
+                    <a name="services"><h2 class="section-heading text-white">We are here to help.</h2></a>
+                </div>
+            </div>
+
+            <div class="row here-to-help">
+                <div class="col-md-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="">
+                    <div class="feature-1 text-center">
+                        <div class="wrap-icon icon-1">
+                            <span class="icon la la-users"></span>
+                        </div>
+                        <img src="Icons/icon_guidance.png" alt="Guidance">
+                        <h3 class="mb-3">Guidance</h3>
+                    </div>
+                </div>
+
+                <div class="col-md-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+                    <div class="feature-1 text-center">
+                        <div class="wrap-icon icon-1">
+                            <span class="icon la la-toggle-off"></span>
+                        </div>
+                        <img src="Icons/icon_community.png" alt="Community">
+                        <h3 class="mb-3">Community</h3>
+                    </div>
+                </div>
+                <div class="col-md-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+                    <div class="feature-1 text-center">
+                        <div class="wrap-icon icon-1">
+                            <span class="icon la la-umbrella"></span>
+                        </div>
+                        <img src="Icons/icon_events.png" alt="Events">
+                        <h3 class="mb-3">Events</h3>
+                    </div>
+                </div>
+                <div class="col-md-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+                    <div class="feature-1 text-center">
+                        <div class="wrap-icon icon-1">
+                            <span class="icon la la-umbrella"></span>
+                        </div>
+                        <img src="Icons/icon_training.png" alt="Training">
+                        <h3 class="mb-3">Training</h3>
+                    </div>
+                </div>
+                <div class="col-md-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+                    <div class="feature-1 text-center">
+                        <div class="wrap-icon icon-1">
+                            <span class="icon la la-umbrella"></span>
+                        </div>
+                        <img src="Icons/icon_cloud.png" alt="Cloud Tools">
+                        <h3 class="mb-3">Cloud Tools</h3>
+                    </div>
+                </div>
+            </div>
+
         </div>
-       </div>
-	   </div>
+    </div>
+
+	
    
 
 	 <!-- Body by Shun Li-->
