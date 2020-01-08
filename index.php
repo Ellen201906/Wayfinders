@@ -18,6 +18,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
     <!-- Javascript-->
+	 <script src="js/jquery-3.4.1.min.js"></script>
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
     <script src="https://cdn.staticfile.org/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://cdn.staticfile.org/popper.js/1.15.0/umd/popper.min.js"></script>
@@ -150,16 +151,19 @@
         </div>
     </div>
     <br/>
-    <div style="position: relative; width: 100%; height: 100%;">
-        <img src="Photos\Edited-images\road_nest-edited.jpg" alt="" width="100%" />
-        <span style="position:absolute;top:40%;left:0%;font-size:50px;color:white;padding-left:300px;padding-right:200px">
+	 <!-- Body by Shun Li-->
+    <div style="position: relative;">
+        <img src="Photos\Edited-images\road_nest-edited.jpg" class="a"/>
+        <span class="b">
             We're building a new kind of business
             community to support you wherever you are.
         </span>
     </div>
-    <br><br>
-    <h2 style="color:#004359;position:absolute;text-align:center; padding-left:500px;"><b>On the ground and in the cloud</b></h2>
-    <br><br><br> <br><br><br><br>
+    <div class="c">
+        <br><br><br> <br>
+        <h2 style="position:relative;"><b>On the ground and in the cloud</b></h2>
+        <br><br><br> <br>
+    </div>
     <div class="c">
         <div><img src="Photos\Edited-images\builders-edited.jpg" alt="" /></div>
         <div><img src="Photos\Edited-images\potter-edited.jpg" alt="" /></div>
@@ -168,15 +172,18 @@
         <div><img src="Photos\Edited-images\cowork-group-edit.jpg" alt="" /></div>
         <div><img src="Photos\Edited-images\laptop-edited.jpg" alt="" /></div>
     </div>
-    <div style="background-color:#004359; text-align:left;padding-left:100px;padding-right:100px;color:white">
-        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-         <a name="about"><h3><b>Focus on what you do best</b></h3></a><br>
+
+    <div class="d">
+        <br><br><br><br>
+        <a name="about"><h3><b>Focus on what you do best</b></h3></a><br>
         <h3>
             Tired of wearing many hats? Spending too much time on accounting, not enough time on your craft?
             Connect with a trusted network of business owners and specialists helping each other navigate the 21st century co-operatively.
         </h3>
-        <br><br>
+        <br><br><br><br>
     </div>
+
+   
 	
 	<!-- Body by deepa-->
    
