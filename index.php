@@ -89,73 +89,68 @@
       </div>
     </section>
 
-	<!-- Site Section -->
-    <div class="site-section">
-        <div class="container">
 
-            <div class="row justify-content-left mb-5">
-                <div class="col-md-5 aos-init aos-animate" data-aos="fade-up">
-                    <a name="services"><h2 class="section-heading text-white">We are here to help.</h2></a>
-                </div>
-            </div>
 
-            <div class="row here-to-help">
-                <div class="col-md-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="">
-                    <div class="feature-1 text-center">
-                        <div class="wrap-icon icon-1">
-                            <span class="icon la la-users"></span>
-                        </div>
-                        <img src="Icons/icon_guidance.png" alt="Guidance">
-                        <h3 class="mb-3">Guidance</h3>
-                    </div>
-                </div>
+	<div style="background-color:#0A425D">
+	 <div class="container" >
+	  <a name="services"><h2 class="section-heading text-white">We are here to help.</h2></a>
+         <div class="row">
+		    <div class="col-xs-2">
+              <img src="Icons/icon_guidance.png" alt="Guidance" title="Guidance" class="iconimage">			    			  
+			   <h5 class="services">Guidance</h5> 			  			
+			<br>
+			</div>	
+			
+			<div class="col-xs-2">           	    
+			  <img src="Icons/icon_community.png" alt="Community" title="Community" class="iconimage">			
+			   <h5 class="services">Community</h5> 			  			
+			<br>
+			</div>			 
+			
+			<div class="col-xs-2">
+                 <img src="Icons/icon_events.png" alt="Events" title="Events" class="iconimage">				 
+				  <h5 class="services">Events</h5>
+				  <br>
+			</div>	
 
-                <div class="col-md-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
-                    <div class="feature-1 text-center">
-                        <div class="wrap-icon icon-1">
-                            <span class="icon la la-toggle-off"></span>
-                        </div>
-                        <img src="Icons/icon_community.png" alt="Community">
-                        <h3 class="mb-3">Community</h3>
-                    </div>
-                </div>
-                <div class="col-md-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-                    <div class="feature-1 text-center">
-                        <div class="wrap-icon icon-1">
-                            <span class="icon la la-umbrella"></span>
-                        </div>
-                        <img src="Icons/icon_events.png" alt="Events">
-                        <h3 class="mb-3">Events</h3>
-                    </div>
-                </div>
-                <div class="col-md-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-                    <div class="feature-1 text-center">
-                        <div class="wrap-icon icon-1">
-                            <span class="icon la la-umbrella"></span>
-                        </div>
-                        <img src="Icons/icon_training.png" alt="Training">
-                        <h3 class="mb-3">Training</h3>
-                    </div>
-                </div>
-                <div class="col-md-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
-                    <div class="feature-1 text-center">
-                        <div class="wrap-icon icon-1">
-                            <span class="icon la la-umbrella"></span>
-                        </div>
-                        <img src="Icons/icon_cloud.png" alt="Cloud Tools">
-                        <h3 class="mb-3">Cloud Tools</h3>
-                    </div>
-                </div>
-            </div>
-
+			<div class="col-xs-4 ">              
+				 <img src="Icons/icon_training.png" alt="Training" title="Training" class="iconimage">
+				  <h4 class="services">Training</h4>
+				  <br>
+			</div>	
+			
+			<div class="col-xs-4">
+			     <img src="Icons/icon_cloud.png" alt="Cloud Tools" title="CLOUD Tools" class="iconimage"> 
+				  <h4 class="services">Cloud Tools</h4>				 
+			</div>	
         </div>
-    </div>
-
-	
+       </div>
+	   </div>
    
 
 	 <!-- Body by Shun Li-->
- 
+    <div style="position: relative;">
+        <img src="Photos\Edited-images\road_nest-edited.jpg" class="a"/>
+        <span class="b">
+            We're building a new kind of business
+            community to support you wherever you are.
+        </span>
+    </div>
+    
+	<div class="c">
+        <br><br><br> <br>
+        <h2 style="position:relative;"><b>On the ground and in the cloud</b></h2>
+        <br><br><br> <br>
+    </div>
+    <div class="c">
+        <div><img src="Photos\Edited-images\builders-edited.jpg" alt="" /></div>
+        <div><img src="Photos\Edited-images\potter-edited.jpg" alt="" /></div>
+        <div><img src="Photos\Edited-images\florist-edited.jpg" alt="" /></div>
+        <div><img src="Photos\Edited-images\market_veggies-edited.jpg" alt="" /></div>
+        <div><img src="Photos\Edited-images\cowork-group-edit.jpg" alt="" /></div>
+        <div><img src="Photos\Edited-images\laptop-edited.jpg" alt="" /></div>
+    </div>
+
     <div class="d">
         <br><br><br><br>
         <a name="about"><h3><b>Focus on what you do best</b></h3></a><br>
