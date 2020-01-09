@@ -155,28 +155,7 @@
    
 
 	 <!-- Body by Shun Li-->
-    <div style="position: relative;">
-        <img src="Photos\Edited-images\road_nest-edited.jpg" class="a"/>
-        <span class="b">
-            We're building a new kind of business
-            community to support you wherever you are.
-        </span>
-    </div>
-    
-	<div class="c">
-        <br><br><br> <br>
-        <h2 style="position:relative;"><b>On the ground and in the cloud</b></h2>
-        <br><br><br> <br>
-    </div>
-    <div class="c">
-        <div><img src="Photos\Edited-images\builders-edited.jpg" alt="" /></div>
-        <div><img src="Photos\Edited-images\potter-edited.jpg" alt="" /></div>
-        <div><img src="Photos\Edited-images\florist-edited.jpg" alt="" /></div>
-        <div><img src="Photos\Edited-images\market_veggies-edited.jpg" alt="" /></div>
-        <div><img src="Photos\Edited-images\cowork-group-edit.jpg" alt="" /></div>
-        <div><img src="Photos\Edited-images\laptop-edited.jpg" alt="" /></div>
-    </div>
-
+ 
     <div class="d">
         <br><br><br><br>
         <a name="about"><h3><b>Focus on what you do best</b></h3></a><br>
