@@ -1,16 +1,16 @@
 ﻿<?php
-$myfile = fopen("subscriber1.txt", "a+") or die("Unable to open file!");
-
 $data =$_POST["email"];
 
 $NewData=$data.",";
 
-fwrite($myfile, $NewData);
+ include "dbcon.php";
+
+$sql="INSERT INTO products (ProdName) VALUES ('$NewData')
 
 
 
 echo $data;
-echo $myfile;
+
 
 ?>
 <script>
