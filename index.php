@@ -32,7 +32,7 @@
     <header >	
 	  <div >
 	    <image src="Logos/wayfinders.png" style="width:200px;height:90px;margin-left:40px">
-		<nav class="navbar navbar-expand-sm  navbar-dark" style="float:right;margin-top:20px" >
+		<nav class="navbar navbar-expand-sm  navbar-dark  " style="float:right;margin-top:20px" >
           <a class="navbar-brand p-3 text-white font-weight-bold h5" href="#"></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar" style="background-color:#0A425D">
           <span class="navbar-toggler-icon"></span>
@@ -113,13 +113,13 @@
 				  <br>
 			</div>	
 
-			<div class="col-xs-4 ">              
+			<div class="col-xs-2 ">              
 				 <img src="Icons/icon_training.png" alt="Training" title="Training" class="iconimage">
 				  <h4 class="services">Training</h4>
 				  <br>
 			</div>	
 			
-			<div class="col-xs-4">
+			<div class="col-xs-2">
 			     <img src="Icons/icon_cloud.png" alt="Cloud Tools" title="CLOUD Tools" class="iconimage"> 
 				  <h4 class="services">Cloud Tools</h4>				 
 			</div>	
@@ -169,7 +169,7 @@
 	    <div class="container">
           <a name="community"><h2 style="color: #044c64;">Meet our Members and partners</h2></a>
          <div class="row">
-		    <div class="col-sm-4 logo">
+		    <div class="col-xs-4 logo">
               <img src="Logos/P.ink-logo.png" alt="P.ink-logo" title="P.ink-logo" class="logoimage">
 			  <img src="Logos/hanTV-2018-logo.png" alt="hanTV-2018-logo" title="hanTV-2018-logo" class="logoimage">
 			  <br>
@@ -177,7 +177,7 @@
 			  <img src="Logos/EFCL-logo.jpg" alt="EFCL-logo" title="EFCL-logo" class="logoimage">
 			</div>			 
 			
-			<div class="col-sm-4 logo">
+			<div class="col-xs-4 logo">
              <img src="Logos/Spark-gallery.png" alt="Spark-gallery.png" title="Spark-gallery.png" class="logoimage">
 			 <img src="Logos/TCNG-logo.png" alt="TCNG-logo" title="TCNG-logo" class="logoimage">
 			 <br>
@@ -360,13 +360,19 @@
 
 			<div class="col-sm-3">
                 <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/" ><h4 style="color:white">Home</h4></a>
-                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/about-us/" ><h4 style="color:white">About us</h4></a>
-                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/contact-us/" ><h4 style="color:white">Contact us</h4></a>			  			  
+			    <br>
+                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/about-us/" ><h4 style="color:white">Our Story</h4></a>
+				<br>
+                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/services/" ><h4 style="color:white">Our Services</h4></a>
+				<br>
+				 <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/community/" ><h4 style="color:white">Our Community</h4></a>
+				 <br>
             </div>
          
                 <div class="col-sm-3">
-                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/services/" ><h4 style="color:white">Services</h4></a>
-                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/community/" ><h4 style="color:white">Community</h4></a>
+                <a href="#faq" ><h4 style="color:white">FAQ</h4></a>
+				<br>
+                <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/contact-us/" ><h4 style="color:white">Contact Wayfinders</h4></a>
 				<br>
 				</div>
 			    
@@ -386,18 +392,8 @@
                         }
                     </script>
                 </form> 
-				</div>
-				
-			
 
-				<br/><br/> <br/><br/><br/> <br/><br/>
-				 <div class="row">
-				 <div class="col-sm-6">
-				  <a href="https://www.wayfindersbusinesscooperative.ca/test.landing.v1/" ><h4 style="color:white" class="font-weight-bold">Wayfinders Business Co-operative</h4></a>
-			      <a href="mailto:info@wayfinders.coop" ><h5 style="color:white">info@wayfinders.coop</h5></a><br />
-			      </div>
-
-				   <div class="col-sm-6">
+				<br/><br/> <br/><br>
 				  <!-- Facebook -->
                     <a href="http://www.facebook.com/wayfindersbusinessscooperative" type="button" class="btn-floating btn-fb mx-3">
                         <i class="fa fa-facebook"> </i>
@@ -411,11 +407,13 @@
                         <i class="fa fa-linkedin"> </i>
                     </a>
 					<br><br><br><br>
-               </div> 
-			   </div>
+				</div>
+				            
+			   
   </div>      
     
 	</div>	
 	</div>
+
 </body> 
 </html>
