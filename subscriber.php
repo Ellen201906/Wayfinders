@@ -1,5 +1,5 @@
 ﻿<?php
-$myfile = fopen("subscriber.txt", "a+") or die("Unable to open file!");
+$myfile = fopen("subscriber1.txt", "a+") or die("Unable to open file!");
 
 $data =$_POST["email"];
 
