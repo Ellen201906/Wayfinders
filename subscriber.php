@@ -1,11 +1,13 @@
 ﻿<?php
+$myfile = fopen("subscriber.txt", "a+") or die("Unable to open file!");
+
 $data =$_POST["email"];
 
 $NewData=$data.",";
 
-$fileName = './subscriber.txt';
+fwrite($myfile, $NewData);
 
-file_put_contents($fileName,$NewData,FILE_APPEND);
+fclose($myfile);
 
 echo $data;
 
