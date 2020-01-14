@@ -7,9 +7,10 @@ $NewData=$data.",";
 
 fwrite($myfile, $NewData);
 
-fclose($myfile);
+
 
 echo $data;
+echo $myfile;
 
 ?>
 <script>
