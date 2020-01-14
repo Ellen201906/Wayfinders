@@ -5,7 +5,7 @@ $NewData=$data.",";
 
  include "dbcon.php";
 
-$sql="INSERT INTO products (ProdName) VALUES ('$NewData')
+$sql="INSERT INTO products (ProdName) VALUES ('$NewData')";
 
 
 
